@@ -3,8 +3,16 @@ Theme Name: client name x theme
 Description: child theme based on 2017 wordpress theme
 Author:Valerie
 Version: 1.0
-Template: twentyseventeen*/
-@import url('../twentyseventeen/style.css'); 
-/*this line of code will read all in that folder*/
+Template: twentyseventeen 
+*/
 
-.site-content-contain { background-color: pink; }
+@import url('../twentyseventeen/style.css');
+
+
+
+.page-header {
+    padding-bottom: 2em;
+}
+.site-content-contain {
+    background-color: yellow;
+}
