@@ -16,3 +16,7 @@ Template: twentyseventeen
 .site-content-contain {
     background-color: yellow;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Arimo|Montserrat|Niconne|Teko&display=swap');
+
+a {color: blue;}
