@@ -19,4 +19,7 @@ Template: twentyseventeen
 
 @import url('https://fonts.googleapis.com/css?family=Arimo|Montserrat|Niconne|Teko&display=swap');
 
-a {color: blue;}
+
+.site-title  {
+	font-family: 'Teko', sans-serif; 
+}
