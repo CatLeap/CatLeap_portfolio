@@ -34,3 +34,10 @@ Template: twentyseventeen
 	font-size: 30px;
 
 }
+.menu-item-type-custom {
+	font-family: 'Niconne', cursive;
+	font-size: 30px;
+}
+/*body.has-header-image .site-title a {
+	color:red;
+} */
