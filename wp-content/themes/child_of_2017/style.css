@@ -20,6 +20,17 @@ Template: twentyseventeen
 @import url('https://fonts.googleapis.com/css?family=Arimo|Montserrat|Niconne|Teko&display=swap');
 
 
+
 .site-title  {
-	font-family: 'Teko', sans-serif; 
+	font-family: 'Teko', sans-serif;
+	font-size: 60px; 
+}
+.site-description {
+	font-family:'Arimo', sans-serif;
+}
+
+.menu-item-type-post_type  {
+	font-family: 'Niconne', cursive;
+	font-size: 30px;
+
 }
