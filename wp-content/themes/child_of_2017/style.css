@@ -41,3 +41,6 @@ Template: twentyseventeen
 /*body.has-header-image .site-title a {
 	color:red;
 } */
+.main-navigation a {
+    padding: .5em;
+}
