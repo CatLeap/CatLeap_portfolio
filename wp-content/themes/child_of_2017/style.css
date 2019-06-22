@@ -14,7 +14,7 @@ Template: twentyseventeen
     padding-bottom: 2em;
 }
 .site-content-contain {
-    background-color: yellow;
+    background-color: black;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Arimo|Montserrat|Niconne|Teko&display=swap');
@@ -47,10 +47,19 @@ Template: twentyseventeen
 
 body {
 	font-family:'Arimo', sans-serif;
+	color: white;
 }
 .entry-title {
 	font-family: 'Teko', sans-serif;
 	font-size: 30px; 
 }
-
+.entry-title a {
+    color: #d21e11;
+}
+.site-info a {
+    color: #0975cc;
+}
+.page-title {
+	color: #0975cc;
+}
 
