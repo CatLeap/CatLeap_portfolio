@@ -34,13 +34,25 @@ Template: twentyseventeen
 	font-size: 30px;
 }
 
+/* this is main navigation menu*/
 .menu-item-type-custom {
 	font-family: 'Niconne', cursive;
 	font-size: 30px;
 }
-/*body.has-header-image .site-title a {
-	color:red;
-} */
+.main-navigation a:hover {
+	font-family: 'Niconne', cursive;
+	font-size: 30px;
+	color:#2a377d;
+}/*hover*/
+.navigation-top .current-menu-item > a  {
+	color: #d21e11;
+} /*current*/
+
+
+/* this is site main title*/
+body.has-header-image .site-title a {
+	color:white;
+} 
 .main-navigation a {
     padding: .5em;
 }
