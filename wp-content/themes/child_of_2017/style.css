@@ -29,12 +29,12 @@ Template: twentyseventeen
 	font-family:'Arimo', sans-serif;
 }
 
+/* this is main navigation menu*/
 .menu-item-type-post_type  {
 	font-family: 'Niconne', cursive;
 	font-size: 30px;
 }
 
-/* this is main navigation menu*/
 .menu-item-type-custom {
 	font-family: 'Niconne', cursive;
 	font-size: 30px;
@@ -62,25 +62,32 @@ body {
 	color: white;
 }
 
+/*post title*/
 .entry-title {
 	font-family: 'Teko', sans-serif;
 	font-size: 30px; 
-}/*post title*/
-
+}
 .entry-title a {
     color: #d21e11;
-} /*post title*/
+} 
 .entry-title a:hover {
     color: white;
-} /*post title hover*/ /* my colours   RED #d21e11 BLUE #0ea0ea */
+} /*hover*/
 
+ /* my colours   RED #d21e11 BLUE #0ea0ea */
+
+/* copyright at footer*/
 .site-info a {
     color: #0ea0ea;
-} /* copyright ay footer*/
+} 
+.site-info a:hover {
+    color: white;
+} 
 
+/*page titles*/
 .page-title {
 	color: #0ea0ea;
-} /*page titles*/
+} 
 
 /* widgets on the right side of the page displaying posts and categories*/
 .widget a {
@@ -94,6 +101,7 @@ h2.widget-title {
 	color:#0ea0ea;
 } /* end of widgets*/
 
+/*captions*/
 .wp-block-image figcaption {
 	color:#d21e11;
 }
