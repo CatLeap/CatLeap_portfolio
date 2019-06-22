@@ -42,7 +42,7 @@ Template: twentyseventeen
 .main-navigation a:hover {
 	font-family: 'Niconne', cursive;
 	font-size: 30px;
-	color:#2a377d;
+	color:#085771;
 }/*hover*/
 .navigation-top .current-menu-item > a  {
 	color: #d21e11;
@@ -105,3 +105,19 @@ h2.widget-title {
 .wp-block-image figcaption {
 	color:#d21e11;
 }
+
+/* inside the post itself - FOOTER */
+.entry-footer .tags-links a {
+	color:#d21e11;
+}
+.entry-footer .cat-links a {
+	color:#d21e11;
+}
+
+.nav-links .nav-title {
+	color:#d21e11;
+}/*next and previous posts*/
+.nav-subtitle {
+	color:#0ea0ea;
+}
+
