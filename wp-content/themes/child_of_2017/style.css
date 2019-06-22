@@ -44,3 +44,13 @@ Template: twentyseventeen
 .main-navigation a {
     padding: .5em;
 }
+
+body {
+	font-family:'Arimo', sans-serif;
+}
+.entry-title {
+	font-family: 'Teko', sans-serif;
+	font-size: 30px; 
+}
+
+
